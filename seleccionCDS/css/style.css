@@ -1,0 +1,183 @@
+table,td {
+    border: 0px solid #fff;
+    position: inherit;
+}
+
+table{
+    border-radius: 25px;
+    padding-top: 25px !important;
+}
+td{
+    background-color: #37474f;
+}
+
+label,p,input,div,a{
+    font-size: 14px !important;
+}
+
+.algo:hover{
+    background-color: #607d8b !important;
+}
+
+#tabla {
+    border: 0px solid #fff;
+    border-radius: 10PX;
+    padding: 1%;
+    width: fit-content;
+    max-width: 70%;
+    
+    color: white;
+}
+div{
+    color: black !important;
+}
+
+#tabla2 {
+    border: 0px solid #fff;
+    border-radius: 10PX;
+    width: fit-content;
+    max-width: 95%;
+    min-width: 50%;
+    margin: auto;
+}
+
+#form {
+    background-color: #37474f;
+    padding: 5%;
+    border-radius: 8px;
+    width: fit-content;
+    max-width: 80%;
+    margin-top: 1%;
+    margin: auto;
+    height: fit-content;
+}
+
+#img {
+    width: 25%;
+}
+
+body {
+    background-color: #607d8b;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: monospace;
+    color: #e3f2fd;
+}
+
+h2 {
+    margin-left: 40.5%;
+    font-family: monospace;
+    font-size: 29px;
+    color: #e3f2fd;
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 10px;
+    height: 35px;
+    width: 395px;
+    margin-left: 70%;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 30px;
+    position: center;
+}
+
+.hola {
+    padding: 5px;
+    width: 90%;
+}
+
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: white;
+    background-color: transparent;
+    color: white;
+    width: 100%;
+}
+
+#ya {
+    color: #000;
+    display: inline-block;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 4px;
+    border-radius: 2px;
+    border: 2px solid transparent;
+    border: 1px solid black;
+    background-color: transparent;
+    margin: 0 10px 0 10px;
+}
+
+#ya:hover {
+    background-color: #00d4e4;
+    color: #fff;
+}
+
+#ya:active, #ya:focus {
+    border-color: green;
+}
+
+label {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+input:focus {
+    border-color: green;
+}
+
+/* aqui probó la vicky */
+
+select {
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.user {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+#holiss {
+    background-color: #455a64;
+}
+
+.jelou {
+    background-color: #37474f;
+}
+
+.formularios, th, td {
+    padding: 5px;
+}
+
+form {
+    margin: auto;
+    padding: 5%;
+}
+
+li {
+    text-decoration: none;
+    align-self: baseline;
+    margin-right: 0;
+    position: absolute;
+    right: 3%;
+    padding-right: 0;
+    padding-top: 3%;
+}
+
+label {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 5px;
+}
+
